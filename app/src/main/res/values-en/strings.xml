@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">si-app</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="entrar">Login</string>
+    <string name="usuario">User</string>
+    <string name="senha">Password</string>
+    <string name="cadastrousuarios">User registration</string>
+    <string name="todoscampos">Fill in all fields</string>
+    <string name="codigo">Code</string>
+    <string name="nome">Name</string>
+    <string name="endereco">Address</string>
+    <string name="telefone">Phone</string>
+    <string name="cadastrar">Register</string>
+    <string name="falha_login">Login failed: wrong username or password!</string>
+    <string name="sucesso_cadastro">Person successfully registered, code</string>
+    <string name="falha_cadastro">Registration failed: fill in all fields!</string>
+    <string name="falha_cadastro_cpf">Registration failed: CPF field needs 11 characters.</string>
+    <string name="sucesso">Success!</string>
+    <string name="desconectar">Logout</string>
+    <string name="desconectar_confirma">Do you want to disconnect from the account?</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+</resources>
